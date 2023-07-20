@@ -3,7 +3,7 @@
     "require": {
         "sensorario/ruotino": "dev-main#dec889a7ba076"
     },
-    "licence": "MIT",
+    "license": "MIT",
     "extra": {
         "branch-alias": {
             "dev-main": "0.0-dev"
