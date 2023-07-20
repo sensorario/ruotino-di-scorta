@@ -1,7 +1,7 @@
 {
     "name": "sensorario/ruotino-di-scorta",
     "require": {
-        "sensorario/ruotino": "dev-main#01d2f1fd8279f4f757c35b778a2e33115331dde3"
+        "sensorario/ruotino": "dev-main#baf5"
     },
     "license": "MIT",
     "extra": {
