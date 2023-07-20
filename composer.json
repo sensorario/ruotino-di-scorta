@@ -1,0 +1,10 @@
+{
+    "require": {
+        "sensorario/ruotino": "dev-main#dec889a7ba076"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": ["src"]
+        }
+    }
+}
