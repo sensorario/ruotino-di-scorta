@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "56188b27bb3655bcda8c92d64c2edc83",
+    "content-hash": "f19d135886540784424a69620829cbf5",
     "packages": [
         {
             "name": "sensorario/ruotino",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensorario/ruotino.git",
-                "reference": "dec889a7ba076"
+                "reference": "01d2f1fd8279f4f757c35b778a2e33115331dde3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensorario/ruotino/zipball/dec889a7ba076",
-                "reference": "dec889a7ba076",
+                "url": "https://api.github.com/repos/sensorario/ruotino/zipball/01d2f1fd8279f4f757c35b778a2e33115331dde3",
+                "reference": "01d2f1fd8279f4f757c35b778a2e33115331dde3",
                 "shasum": ""
             },
             "require": {
