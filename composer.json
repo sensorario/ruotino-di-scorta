@@ -1,5 +1,5 @@
 {
-    "name": "ruotino-di-scorta",
+    "name": "sensorario/ruotino-di-scorta",
     "require": {
         "sensorario/ruotino": "dev-main#dec889a7ba076"
     },
